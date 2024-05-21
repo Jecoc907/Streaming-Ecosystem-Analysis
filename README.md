@@ -39,7 +39,9 @@ Recommendations: Strategic advice for TV studios based on the analysis.
 
 ## Authors
 Chun Yat Cheung
+
 Tsung-Wei Lin
+
 Kuang Hsuan Lee
 
 ## License
