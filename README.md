@@ -1,5 +1,5 @@
 ## Overview
-This repository contains our Streaming Ecosystem Analysis, was conducted by Chun Yat Cheung, Tsung-Wei Lin, and Kuang Hsuan Lee. The goal of this project was to analyze the current streaming market landscape and provide recommendations on what types of TV shows production studios should focus on creating next.
+This repository contains our Streaming Ecosystem Analysis, was conducted by Chun Yat (Jeco) Cheung, Tsung-Wei (Weber) Lin, and Kuang Hsuan (Jack) Lee. The goal of this project was to analyze the current streaming market landscape and provide recommendations on what types of TV shows production studios should focus on creating next.
 
 ## Project Background
 The project aims to address the following key questions:
@@ -40,10 +40,8 @@ Findings: Insights into current content offerings, market gaps, and successful T
 Recommendations: Strategic advice for TV studios based on the analysis.
 
 ## Authors
-Chun Yat Cheung
-
-Tsung-Wei Lin
-
+Chun Yat Cheung\
+Tsung-Wei Lin\
 Kuang Hsuan Lee
 
 ## License
